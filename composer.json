@@ -1,5 +1,15 @@
 {
     "name": "youvision/think-pscws4",
+    "authors": [
+        {
+            "name": "indiboy-create",
+            "homepage": "https://github.com/indiboy-create"
+        },
+        {
+            "name": "AI",
+            "role": "Developer"
+        }
+    ],
     "description": "PSCWS4 纯 PHP 中文分词，适配 ThinkPHP 8",
     "type": "library",
     "keywords": [
